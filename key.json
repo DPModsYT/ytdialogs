@@ -23,6 +23,11 @@
       "status": "approved",
       "expiry_date": "2099-12-31",
       "hwid": []
+    },
+    "DP-3X30UB": {
+      "hwid": [],
+      "status": "approved",
+      "expiry_date": "2026-08-19"
     }
   }
 }
