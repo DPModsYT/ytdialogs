@@ -32,7 +32,10 @@
     "DP-RU93FV": {
       "status": "approved",
       "max_devices": 1,
-      "expiry_date": "2026-08-19"
+      "expiry_date": "2026-08-19",
+      "hwid": [
+        "728948715f2e9700"
+      ]
     }
   }
 }
